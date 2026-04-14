@@ -2,7 +2,7 @@
     "name": "Bakery Recipes",
     "short_name": "Recipes",
     "description": "Bakery recipe checker for chefs",
-    "start_url": "/",
+    "start_url": "/Balaji-Apps-Recipe/",
     "display": "standalone",
     "orientation": "portrait",
     "background_color": "#D84315",
